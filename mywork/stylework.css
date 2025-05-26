@@ -1,0 +1,30 @@
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+section{
+    
+    background-color: aqua;
+    
+    padding: 20px;
+    width: 50%;
+    
+}
+header{
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+span{
+    text-transform: uppercase;
+}
+small{
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+}   

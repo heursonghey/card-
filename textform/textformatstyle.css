@@ -1,0 +1,50 @@
+@font-face {
+    font-family: she;
+    src: url(/font/Poppins-Black.ttf);
+}
+
+
+.card-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: she;
+    
+
+}
+
+
+
+.container{
+    background-color: aquamarine;
+    padding: 20px; 
+    width: 50%;
+
+}
+.title{
+    margin-top: 0px;
+    text-align: center; 
+    letter-spacing: 2px;
+
+
+}
+span{
+    
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 300;
+
+}
+button{
+    background-color:rebeccapurple;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+.title,span{
+
+ color: blue;
+}
+
+
